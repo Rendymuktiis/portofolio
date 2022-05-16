@@ -1,0 +1,62 @@
+{
+    "basic_info": {
+      "description_header": "Hi,",
+      "description": "My name is Rendy Septianus Mukti, I'm from Lampung. Bachelor of computer science specialist program in artificial intelligence. Competent in problem solving and someone who works hard when learning new things. I also have professional experience as a full-stack web developer at PT. Bank Central Asia, Tbk. Now I am looking for a new job that can give me the opportunity keep growing.",
+      "section_name": {
+        "about": "About Me",
+        "projects": "My Projects",
+        "skills": "My Skiils",
+        "experience": "My Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Face Detection",
+        "startDate": "2020",
+        "description": "The purpose of this web is to detect face, which using models from artificial intelligence, models are able to determine and detect which parts of an image are part of the face. To use it, the user can register first. Then the user can paste the url/link containing the photo with the extension.jpg",
+        "images": [
+          "images/portfolio/face-detection/signin.png",
+          "images/portfolio/face-detection/register.png",
+          "images/portfolio/face-detection/content.png"
+        ],
+        "url": "https://rendymuktiis.github.io/face-recognition-front/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "Postgres"
+          }
+        ]
+      }
+    ],
+    "experience": [
+        {
+          "company": "Bank Central Asia",
+          "title": "Full-Stack Web Developer",
+          "years": "02.2021 - 02.2022",
+          "mainTech": [
+            ".NET 8/9/10"
+          ],
+          "technologies": [
+            "JavaScript",
+            "Visual Basic.NET",
+            "Bootstrap",
+            "HTML",
+            "CSS",
+            "Microsoft SQL Server",
+            "Outsystems"   
+          ]
+        }
+      ]
+  }

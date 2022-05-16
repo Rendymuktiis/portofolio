@@ -1,0 +1,62 @@
+{
+    "basic_info": {
+      "description_header": "Halo, ",
+      "description": "Nama saya Rendy Septianus Mukti, asal saya dari Lampung. Saya lulusan Universitas Bina Nusantara jurusan teknik informatika. Saya adalah orang yang berkompeten untuk menyelesaikan masalah dan seorang yang bekerja keras ketika mempelajari hal baru. Saya juga memiliki pengalaman profesional sebagai full-stack developer di PT. Bank Central Asia, Tbk. Sekarang saya sedang mencari pekerjaan baru yang dapat memberikan saya kesempatan untuk terus tumbuh.",
+      "section_name": {
+        "about": "About",
+        "projects": "Project",
+        "skills": "Skill",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Face Detection",
+        "startDate": "2020",
+        "description": "Web ini berfungsi untuk mendeteksi wajah, dimana menggunakan model dari artificial intelligence model ini mampu menentukan dan mendeteksi bagian mana dari sebuah foto merupakan bagian dari wajah. Untuk penggunaannya, pengguna dapat melakukan register terlebih dahulu. Kemudian pengguna dapat paste url/tautan yang berisi foto dengan extension.jpg",
+        "images": [
+          "images/portfolio/face-detection/signin.png",
+          "images/portfolio/face-detection/register.png",
+          "images/portfolio/face-detection/content.png"
+        ],
+        "url": "https://rendymuktiis.github.io/face-recognition-front/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "Postgres"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Bank Central Asia",
+        "title": "Full-Stack Web Developer",
+        "years": "02.2021 - 02.2022",
+        "mainTech": [
+          ".NET 8/9/10"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Visual Basic.NET",
+          "Bootstrap",
+          "HTML",
+          "CSS",
+          "Microsoft SQL Server",
+          "Outsystems"   
+        ]
+      }
+    ]
+  }

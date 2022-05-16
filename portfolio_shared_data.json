@@ -1,0 +1,70 @@
+{
+    "basic_info": {
+      "name": "Rendy Septianus Mukti",
+      "titles": [ "Enthusiastic Web Developer", "Enthusiastic Problem Solver" ],
+      "social": [
+        {
+          "name": "linkedin",
+          "url": "https://linkedin.com/in/rendy-septianus-mukti-136aa51b7",
+          "class": "fab fa-linkedin"
+        }
+
+
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Node",
+          "class": "devicon-nodejs-plain",
+          "level": "75"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "HTML",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": ".NET",
+          "class": "devicon-dotnetcore-plain",
+          "level": "95"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "85"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "65"
+        },
+        {
+          "name": "My Sql",
+          "class": "devicon-mysql-plain",
+          "level": "65"
+        },
+        {
+          "name": "PostgreSql",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
